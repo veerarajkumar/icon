@@ -1,0 +1,45 @@
+h2{
+
+    text-align: center;
+    padding-top: 50px;
+}
+body{
+     background-color: rgba(142, 201, 5, 0.863);    
+}
+.class1 {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px
+
+}
+.class2{
+    background-color: aqua;
+    margin-bottom: 20%;
+}
+.class3{
+    padding-left: 100px;
+}
+.class4{
+    padding-left: 30px;
+}
+.class5{
+    text-align: center;
+padding-bottom: 30px;
+
+}
+.class6{
+    background-color: brown;
+    padding-right: 40%;
+}
+.class7{
+    padding-top: 100px;
+}
+.class8{
+    background-color: yellow;
+    margin-top: 80px;
+}
+.class9
+{
+    background-color: blue;
+    margin-right: 500px;
+}
